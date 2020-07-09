@@ -1,4 +1,4 @@
-### "Faaaala, Dev!" (Essa ref eu peguei) 👋
+### "Faaaala, Dev!" (Sacou essa ref?) 👋
 
 Quem sou eu? O que como? Onde (e se) durmo? Quando dei o primeiro commit no branch errado?
 Hoje no Glo.. Não pera.
