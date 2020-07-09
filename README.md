@@ -1,4 +1,9 @@
-### Hi there 👋
+### "Faaaala, Dev!" (Essa ref eu peguei) 👋
+
+Quem sou eu? O que como? Onde (e se) durmo? Quando dei o primeiro commit no branch errado?
+Hoje no Glo.. Não pera.
+
+Apenas um jovem testando uma nova feature. :musical_note: Vou ali, volto já, volto pra atualizaaar. :musical_note:
 
 <!--
 **Elyabe/Elyabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
