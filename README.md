@@ -1,6 +1,6 @@
 ### "Faaaala, Dev!" (Sacou essa ref?) 👋
 
-Quem sou eu? O que como? Onde (e se) durmo? Quando dei o primeiro commit no branch errado?
+Quem sou eu? O que como? Onde (e se) durmo? Quando fiz o primeiro *commit* no *branch* errado?
 Hoje no Glo.. Não pera.
 
 Apenas um jovem testando uma nova feature. :musical_note: Vou ali, volto já, volto pra atualizaaar. :musical_note:
