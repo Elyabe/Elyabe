@@ -33,7 +33,7 @@ PHP          29 mins         ░░░░░░░░░░░░░░░░░
 
 
 ```text
-All used languages (this is a new feature test :D)
+All used languages/resources (this is a new feature test :D)
 
 HTML                         █████████████░░░░░░░░░░░░   53.92 % 
 PHP                          ███████░░░░░░░░░░░░░░░░░░   30.20 % 
