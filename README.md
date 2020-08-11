@@ -19,11 +19,11 @@
 [![Rocket Profile](https://img.shields.io/static/v1?label=Rocketseat&message=Profile&colorA=purple&color=black&logo=Rocket&logoColor=white)](https://app.rocketseat.com.br/me/elyabe)
 <a href="https://www.linkedin.com/in/elyabe/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
-<img align='left' src="./images/rick-dancing.gif" width='200'>
+<img align='left' src="https://media.tenor.com/images/17233f6fbdb4e0488f92c8ebd1218cda/tenor.gif" width='200'>
 
                        
 #### Welcome to my crazy code space 
-<img align='right' src="./images/portal-3.gif" width='200"'>
+<img align='right' src="https://media3.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width='200"'>
 
 - :heart_eyes: I'm a guy fascinated by programming and process automation; 
 - :office_worker: A future "scientist" of computing by [UFES](http://ufes.br)/[Ceunes](http://ceunes.ufes.br);
