@@ -35,10 +35,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other    2 hrs 14 mins   ████████████░░░░░░░░░░░░░   49.02 % 
-YAML     1 hr 40 mins    █████████░░░░░░░░░░░░░░░░   36.66 % 
-Python   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Text     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-INI      7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
