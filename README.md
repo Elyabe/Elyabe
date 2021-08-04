@@ -30,7 +30,7 @@
 - :books: I worked with AWS in the [Proadi-SUS/HIAE Big Data Project](https://hospitais.proadi-sus.org.br/projetos/24/big-data);
 - :memo: I studied studying DBA at Federal University of Viçosa - [UFV](http://ufv.br);
 - :rocket: I was a GoStack student at @Rocketseat;
-- :green_heart: Techs: AWS, Docker, Kubernetes, Jenkins, GitHub, Ansible, Terraform, Grafana, GitLab
+- :green_heart: Techs: I'm currently playing with my own self-managed Kubernetes cluster with AWS, Docker, Kubernetes, Jenkins, GitHub, Ansible, Terraform, Grafana, GitLab
 - :movie_camera: I love watching (specially sci-fi) series on that site that does 'Tu-dooom'.
 
 <!--START_SECTION:waka-->
