@@ -26,7 +26,7 @@
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
 
 - :heart_eyes: I'm a guy fascinated by programming and process automation; 
-- :office_worker: A future "scientist" of computing by [UFES](http://ufes.br)/[Ceunes](http://ceunes.ufes.br);
+- :office_worker: I'm a '"scientist"' of computing by [UFES](http://ufes.br)/[Ceunes](http://ceunes.ufes.br);
 - :books: I worked with AWS in the [Proadi-SUS/HIAE Big Data Project](https://hospitais.proadi-sus.org.br/projetos/24/big-data);
 - :memo: I studied studying DBA at Federal University of Viçosa - [UFV](http://ufv.br);
 - :rocket: I was a GoStack student at @Rocketseat;
