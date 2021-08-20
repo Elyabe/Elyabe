@@ -1,21 +1,6 @@
 
 <h2> :man_technologist: Hey guys! What's up?!</h2>
                                                                          
-```text
-                   ___                                     ___                         ___     
-                  /  /\                        ___        /  /\         _____         /  /\    
-                 /  /:/_                      /__/|      /  /::\       /  /::\       /  /:/_   
-                /  /:/ /\    ___     ___     |  |:|     /  /:/\:\     /  /:/\:\     /  /:/ /\  
-               /  /:/ /:/_  /__/\   /  /\    |  |:|    /  /:/~/::\   /  /:/~/::\   /  /:/ /:/_ 
-              /__/:/ /:/ /\ \  \:\ /  /:/  __|__|:|   /__/:/ /:/\:\ /__/:/ /:/\:| /__/:/ /:/ /\
-              \  \:\/:/ /:/  \  \:\  /:/  /__/::::\   \  \:\/:/__\/ \  \:\/:/~/:/ \  \:\/:/ /:/
-               \  \::/ /:/    \  \:\/:/      ~\~~\:\   \  \::/       \  \::/ /:/   \  \::/ /:/ 
-                \  \:\/:/      \  \::/         \  \:\   \  \:\        \  \:\/:/     \  \:\/:/  
-                 \  \::/        \__\/           \__\/    \  \:\        \  \::/       \  \::/   
-                  \__\/                                   \__\/         \__\/         \__\/    
-
-```
-
 [![Rocket Profile](https://img.shields.io/static/v1?label=Rocketseat&message=Profile&colorA=purple&color=black&logo=Rocket&logoColor=white)](https://app.rocketseat.com.br/me/elyabe)
 <a href="https://www.linkedin.com/in/elyabe/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
