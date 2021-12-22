@@ -20,7 +20,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON        0 secs          █████████████████████████   100.00 % 
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
