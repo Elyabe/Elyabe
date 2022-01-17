@@ -20,6 +20,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Terraform   4 hrs 8 mins    ██████████████████████░░░   90.36 % 
+Other       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Bash        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 <!--END_SECTION:waka-->
