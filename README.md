@@ -20,6 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 8 mins     ███████████████████████░░   94.22 % 
+JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 <!--END_SECTION:waka-->
