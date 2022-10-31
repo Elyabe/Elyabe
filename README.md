@@ -18,11 +18,14 @@
 - :movie_camera: I love watching (specially sci-fi) series on that site that does 'Tu-dooom'.
 
 <!--START_SECTION:waka-->
+
 ```text
-YAML         4 hrs 22 mins   ████████████████░░░░░░░░░   65.86 % 
-Other        1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Terraform    37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Python       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Python             1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+Terraform          1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+YAML               1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Text               57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Markdown           40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Makefile           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
+
 <!--END_SECTION:waka-->
