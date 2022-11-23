@@ -20,9 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
-Go       2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
-Other    1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Groovy       3 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.78 %
+Other        3 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.71 %
 ```
 
 <!--END_SECTION:waka-->
