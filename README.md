@@ -20,8 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       7 hrs 46 mins   █████████████░░░░░░░░░░░░   52.01 %
-Other        3 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Groovy       7 hrs 46 mins   ████████████▓░░░░░░░░░░░░   50.61 %
+Other        3 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
 ```
 
 <!--END_SECTION:waka-->
