@@ -12,9 +12,8 @@
 
 - :heart_eyes: I'm a guy fascinated by programming and process automation; 
 - :office_worker: I'm a '"scientist"' of computing by [UFES](http://ufes.br)/[Ceunes](http://ceunes.ufes.br);
-- :books: I worked with AWS in the [Proadi-SUS/HIAE Big Data Project](https://hospitais.proadi-sus.org.br/projetos/24/big-data);
+- :books: I worked with AWS in the [Proadi-SUS/HIAE Big Data Project](https://www.einstein.br/responsabilidade-social/atuacao-com-o-ministerio-da-saude/proadi-sus);
 - :rocket: I was a GoStack student at @Rocketseat;
-- :green_heart: Techs: I'm currently playing with my own self-managed Kubernetes cluster with AWS, Docker, Bash, Python, Jenkins, GitHub, Ansible, Terraform, Grafana, GitLab
 - :movie_camera: I love watching (specially sci-fi) series on that site that does 'Tu-dooom'.
 
 <!--START_SECTION:waka-->
