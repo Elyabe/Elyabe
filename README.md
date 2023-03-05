@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 4 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.72 %
-Bash                       2 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Python                     1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Other                      1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+TypeScript                 5 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
+Python                     2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Other                      1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
 ```
 
 <!--END_SECTION:waka-->
