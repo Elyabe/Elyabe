@@ -19,8 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 4 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-Other                      3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+TypeScript                 5 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   39.90 %
+Terraform                  2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Other                      2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 ```
 
 <!--END_SECTION:waka-->
