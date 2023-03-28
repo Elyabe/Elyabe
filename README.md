@@ -19,8 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 55 mins   ██████████████▓░░░░░░░░░░   58.78 %
-Other        2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+Python       7 hrs 55 mins   █████████████▓░░░░░░░░░░░   54.64 %
+Other        2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
 ```
 
 <!--END_SECTION:waka-->
