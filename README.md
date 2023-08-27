@@ -19,9 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML             2 hrs 19 mins   ████████████░░░░░░░░░░░░░   47.92 %
-ActionScript 3   1 hr 44 mins    █████████░░░░░░░░░░░░░░░░   35.89 %
-Other            27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+ActionScript 3   1 hr 44 mins    ████████████████▓░░░░░░░░   67.32 %
+Other            27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
 ```
 
 <!--END_SECTION:waka-->
