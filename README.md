@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-ActionScript 3   1 hr 44 mins    ████████████████▓░░░░░░░░   67.32 %
-Other            27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Other            27 mins         █████████████████████▒░░░   85.05 %
 ```
 
 <!--END_SECTION:waka-->
