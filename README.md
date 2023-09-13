@@ -19,8 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform      7 hrs 44 mins   ██████████████████████░░░   87.75 %
-Other          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Terraform      7 hrs 25 mins   ███████████████████▓░░░░░   79.29 %
+Ezhil          31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Other          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
