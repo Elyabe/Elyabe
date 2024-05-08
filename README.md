@@ -19,8 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs          ███████████████████▒░░░░░   77.89 %
-JSON         0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+YAML                       39 mins         ████████████████▒░░░░░░░░   64.90 %
+Other                      18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Go                         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
