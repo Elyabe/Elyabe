@@ -19,8 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 36 mins   ████████████████████████▒   97.63 %
-Bash    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Other        4 hrs 30 mins   ███████████████████████▒░   92.89 %
+Terraform    20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
