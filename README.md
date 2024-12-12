@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 3 mins     █████████████████████████   100.00 %
+Other       1 hr 24 mins    ██████████████▒░░░░░░░░░░   57.46 %
+Terraform   57 mins         █████████▓░░░░░░░░░░░░░░░   39.15 %
+YAML        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
