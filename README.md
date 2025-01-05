@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other       1 hr 7 mins     ███████████████████░░░░░░   75.38 %
-Groovy      21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
